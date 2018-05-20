@@ -1,11 +1,22 @@
 __author__ = 'ozandeniz'
 
 from bs4 import BeautifulSoup
+
 import re
 import codecs
 
 NO_REL_DELIMITER = "~"
 SENTENCE_SPAN = 1
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 with codecs.open('/Users/ozandeniz/Dropbox/COGS/528/COGS_528_Term_Project/for_norel_annotations/all_annotations_combined/00001131_agreed_bir.xml', 'r', encoding='utf8') as connective_file:
     connective = connective_file.read()
@@ -47,9 +58,24 @@ for relation in relations:
                        + NO_REL_DELIMITER * (last_dot_indexV3 - first_dot_indexV3) \
                        + with_no_rel_text[last_dot_indexV3:]
 
-with_no_rel_sentences = re.compile(NO_REL_DELIMITER + "+").split(with_no_rel_text)
+with_no_rel_sentences = re\
+    .compile(NO_REL_DELIMITER + "+")\
+    .split(with_no_rel_text)
 
 for with_no_rel_sentence in with_no_rel_sentences:
+    spans = with_no_rel_text.split(with_no_rel_sentence)
+
+    span_left = spans[0]
+    span_right = spans[1]
+
+    left = '.'.join(span_left.split('.')[-1*SENTENCE_SPAN:])
+    right = '.'.join(span_right.split('.')[-1*SENTENCE_SPAN:])
+
+    print('****')
+    #print(left.strip('.').strip())
+    #print('----')
+    #print(right.strip('.').strip())
+    #print('----')
     print(with_no_rel_sentence.strip('.').strip())
-    print('XXXX')
+    print('****\n')
 
