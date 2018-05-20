@@ -8,16 +8,6 @@ import codecs
 NO_REL_DELIMITER = "~"
 SENTENCE_SPAN = 1
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-
 with codecs.open('/Users/ozandeniz/Dropbox/COGS/528/COGS_528_Term_Project/for_norel_annotations/all_annotations_combined/00001131_agreed_bir.xml', 'r', encoding='utf8') as connective_file:
     connective = connective_file.read()
 
@@ -27,7 +17,6 @@ with codecs.open('/Users/ozandeniz/Dropbox/COGS/528/COGS_528_Term_Project/odtu_t
 connectiveInfo = BeautifulSoup(connective, "xml")
 relations = connectiveInfo.findAll('Relation')
 
-without_no_rel_text = text
 with_no_rel_text = text
 
 for relation in relations:
@@ -78,4 +67,3 @@ for with_no_rel_sentence in with_no_rel_sentences:
     #print('----')
     print(with_no_rel_sentence.strip('.').strip())
     print('****\n')
-
