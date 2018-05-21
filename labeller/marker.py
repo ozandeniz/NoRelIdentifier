@@ -1,4 +1,7 @@
 # coding=utf-8
+import re
+from labeller.constants import NO_REL_DELIMITER
+
 __author__ = 'ozandeniz'
 '''
 <Relation note="" sense="" type="NOREL">
@@ -30,3 +33,7 @@ __author__ = 'ozandeniz'
     <Supp_Shared/>
 </Relation>
 '''
+
+
+def mark_no_rel(with_no_rel_text):
+    with_no_rel_sentences = re.compile(NO_REL_DELIMITER + r"+").split(with_no_rel_text)
