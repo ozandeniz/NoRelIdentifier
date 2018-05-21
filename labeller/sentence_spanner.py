@@ -9,7 +9,6 @@ def get_span(with_no_rel_text, text):
     with_no_rel_sentences = re.compile(NO_REL_DELIMITER + r"+").split(with_no_rel_text)
 
 
-
     for with_no_rel_sentence in with_no_rel_sentences:
         spans = text.split(with_no_rel_sentence)
 
