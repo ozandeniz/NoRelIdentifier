@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import codecs
-from labeller.config import annotation_file_path
+from labeller.config import annotation_file_path, text_file_path
 
 __author__ = 'ozandeniz'
 
@@ -14,9 +14,9 @@ def read_annotation():
     return connective_info.findAll('Relation')
 
 
-def read_text(file_path):
+def read_text():
 
-    with codecs.open(file_path, 'r', encoding='utf8') as text_file:
+    with codecs.open(text_file_path, 'r', encoding='utf8') as text_file:
         text = text_file.read()
 
     return text
