@@ -1,0 +1,4420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>11994</BeginOffset>
+<EndOffset>11996</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Yokluğunda seni yadsıyan yanım öbürüne yenik düşüyordu</Text>
+<BeginOffset>11939</BeginOffset>
+<EndOffset>11993</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>geçmişe ait imlerden yararlanarak seni
+                    yaratıyordum yanı başımda</Text>
+<BeginOffset>11997</BeginOffset>
+<EndOffset>12061</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>amacıyla</Text>
+<BeginOffset>6025</BeginOffset>
+<EndOffset>6033</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>eski hallerini de pek bozmadan, kolay kolay fark
+                    edilemeyecek güvenli bir köşe oluşturdu</Text>
+<BeginOffset>6034</BeginOffset>
+<EndOffset>6122</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Kuşku uyandırmamak</Text>
+<BeginOffset>6006</BeginOffset>
+<EndOffset>6024</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>6951</BeginOffset>
+<EndOffset>6955</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>geceden gidip terasa gizleniyordu</Text>
+<BeginOffset>6956</BeginOffset>
+<EndOffset>6989</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Dikkat çekmemek</Text>
+<BeginOffset>6935</BeginOffset>
+<EndOffset>6950</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>4735</BeginOffset>
+<EndOffset>4738</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bu geç vakitte bile ortalıkta dolaşanlar vardı</Text>
+<BeginOffset>4687</BeginOffset>
+<EndOffset>4733</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Halil'le ilgilenmiyorlardı</Text>
+<BeginOffset>4739</BeginOffset>
+<EndOffset>4765</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason" pdtb3="yes" sense="CONTINGENCY: Cause+Belief: Reason+Belief (Arg2-gives-evidence)" sense2="" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>Çünkü</Text>
+<BeginOffset>486</BeginOffset>
+<EndOffset>491</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>tırmanmaya başlandı mı bitirilmeli</Text>
+<BeginOffset>450</BeginOffset>
+<EndOffset>484</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>her seferinde acımasız bir geriye dönüş vardı</Text>
+<BeginOffset>492</BeginOffset>
+<EndOffset>537</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>çünkü</Text>
+<BeginOffset>6904</BeginOffset>
+<EndOffset>6909</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Artık  gündüzleri terasta kalmak zorundaydı</Text>
+<BeginOffset>6859</BeginOffset>
+<EndOffset>6902</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>hamam gündüzleri açıktı</Text>
+<BeginOffset>6910</BeginOffset>
+<EndOffset>6933</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>7502</BeginOffset>
+<EndOffset>7506</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>içeriye girip hususi banyoların tam yerini öğrenmeliydi</Text>
+<BeginOffset>7507</BeginOffset>
+<EndOffset>7562</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Yine bir yanlışlık yapmamak</Text>
+<BeginOffset>7474</BeginOffset>
+<EndOffset>7501</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="birakmam bekleniyordu ama birakamadim." pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>1300</BeginOffset>
+<EndOffset>1303</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Yaralanıyordum tırmanırken, kanıyordum.
+                    Kırılıyordum, acıyordum</Text>
+<BeginOffset>1235</BeginOffset>
+<EndOffset>1298</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bırakmıyordum</Text>
+<BeginOffset>1304</BeginOffset>
+<EndOffset>1317</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>7118</BeginOffset>
+<EndOffset>7120</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>akşamdan astığı çamaşırları aceleyle topluyor</Text>
+<BeginOffset>7072</BeginOffset>
+<EndOffset>7117</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>çevresine hiç bakmadan hemen gidiyordu</Text>
+<BeginOffset>7121</BeginOffset>
+<EndOffset>7159</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>kadın</Text>
+<BeginOffset>7066</BeginOffset>
+<EndOffset>7071</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>10059</BeginOffset>
+<EndOffset>10064</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>ağır ağır nakışçıya yürüdü</Text>
+<BeginOffset>10065</BeginOffset>
+<EndOffset>10091</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yine saatlerce meyhanenin mahzeninde Ante ile içip dertleştikten</Text>
+<BeginOffset>9994</BeginOffset>
+<EndOffset>10058</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Halil bir gün</Text>
+<BeginOffset>9980</BeginOffset>
+<EndOffset>9993</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation note="result ilişkisi verilmiş ama conjunction daha uygun diye düşündüm. Emin olamayınca multi sense işaretledim." pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>9619</BeginOffset>
+<EndOffset>9621</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>bu genç ressamın her sırrını biliyor</Text>
+<BeginOffset>9582</BeginOffset>
+<EndOffset>9618</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>onu çok iyi anlıyordu</Text>
+<BeginOffset>9622</BeginOffset>
+<EndOffset>9643</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Ante</Text>
+<BeginOffset>9577</BeginOffset>
+<EndOffset>9581</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ğından</Text>
+<BeginOffset>10665</BeginOffset>
+<EndOffset>10671</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>iki kadının da yüzü açıktı</Text>
+<BeginOffset>10672</BeginOffset>
+<EndOffset>10698</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Başka kimse olmadı</Text>
+<BeginOffset>10647</BeginOffset>
+<EndOffset>10665</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>13273</BeginOffset>
+<EndOffset>13276</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Nerede olduğunu bilmediğimi söylüyor ve kestirip atıyordum</Text>
+<BeginOffset>13214</BeginOffset>
+<EndOffset>13272</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>eski dost ısrarla seni sormaya devam ediyordu</Text>
+<BeginOffset>13278</BeginOffset>
+<EndOffset>13323</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>6436</BeginOffset>
+<EndOffset>6440</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>geliyordu</Text>
+<BeginOffset>6441</BeginOffset>
+<EndOffset>6450</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>gün batmadan o günkü çamaşırları asmak</Text>
+<BeginOffset>6397</BeginOffset>
+<EndOffset>6435</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>13514</BeginOffset>
+<EndOffset>13516</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Senin nerede olduğunu bildiğini söylüyor</Text>
+<BeginOffset>13473</BeginOffset>
+<EndOffset>13513</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>tam adresini bile veriyordu</Text>
+<BeginOffset>13523</BeginOffset>
+<EndOffset>13550</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>önce</Text>
+<BeginOffset>6690</BeginOffset>
+<EndOffset>6694</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>kaçıyordu</Text>
+<BeginOffset>6695</BeginOffset>
+<EndOffset>6704</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kadın terasa çıkmadan</Text>
+<BeginOffset>6668</BeginOffset>
+<EndOffset>6689</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>6603</BeginOffset>
+<EndOffset>6605</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>kadın çamaşırları astıktan sonra bekliyor</Text>
+<BeginOffset>6561</BeginOffset>
+<EndOffset>6602</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>hava kararınca terasa çıkıyordu</Text>
+<BeginOffset>6606</BeginOffset>
+<EndOffset>6637</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Halil</Text>
+<BeginOffset>6554</BeginOffset>
+<EndOffset>6559</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>4107</BeginOffset>
+<EndOffset>4111</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Altı ay önce bitirdiği bir resmi</Text>
+<BeginOffset>4031</BeginOffset>
+<EndOffset>4063</EndOffset>
+</Span>
+<Span>
+<Text>verniklediği</Text>
+<BeginOffset>4112</BeginOffset>
+<EndOffset>4124</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>uzun süre dayanması ve renklerini koruması</Text>
+<BeginOffset>4064</BeginOffset>
+<EndOffset>4106</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>12883</BeginOffset>
+<EndOffset>12885</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Üzerine gittikçe sinirleniyor</Text>
+<BeginOffset>12853</BeginOffset>
+<EndOffset>12882</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bir daha asla kapımı çalmayacağını düşünerek
+                    gitmeden önce bana öldürücü bir darbe vurup intikam
+                    almaya hazırlanıyordu</Text>
+<BeginOffset>12886</BeginOffset>
+<EndOffset>13004</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="EXPANSION: Manner: Arg2-as-manner" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>erek</Text>
+<BeginOffset>1501</BeginOffset>
+<EndOffset>1505</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>koltuğunun önüne gelmiştim</Text>
+<BeginOffset>1506</BeginOffset>
+<EndOffset>1532</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Sandalyemin tekerleklerini çevir</Text>
+<BeginOffset>1469</BeginOffset>
+<EndOffset>1501</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>6588</BeginOffset>
+<EndOffset>6593</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil</Text>
+<BeginOffset>6554</BeginOffset>
+<EndOffset>6559</EndOffset>
+</Span>
+<Span>
+<Text>bekliyor</Text>
+<BeginOffset>6594</BeginOffset>
+<EndOffset>6602</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kadın çamaşırları astıktan</Text>
+<BeginOffset>6561</BeginOffset>
+<EndOffset>6587</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>9401</BeginOffset>
+<EndOffset>9404</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bir kez daha gelir umuduyla hususi banyonun
+                    üzerindeki deliğin başında günlerce bekledi</Text>
+<BeginOffset>9312</BeginOffset>
+<EndOffset>9399</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kadını bir daha göremedi</Text>
+<BeginOffset>9405</BeginOffset>
+<EndOffset>9429</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Synchronous" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ınca</Text>
+<BeginOffset>2764</BeginOffset>
+<EndOffset>2768</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>bir çocuk kadar bile olamazdım</Text>
+<BeginOffset>2769</BeginOffset>
+<EndOffset>2799</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Kızı</Text>
+<BeginOffset>2761</BeginOffset>
+<EndOffset>2765</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ne</Text>
+<BeginOffset>968</BeginOffset>
+<EndOffset>970</EndOffset>
+</Span>
+<Span>
+<Text>ne</Text>
+<BeginOffset>1017</BeginOffset>
+<EndOffset>1019</EndOffset>
+</Span>
+</Conn>
+<Mod>
+<Span>
+<Text>de</Text>
+<BeginOffset>1020</BeginOffset>
+<EndOffset>1022</EndOffset>
+</Span>
+</Mod>
+<Arg1>
+<Span>
+<Text>ben haberdardım bu duvarın yıkılamayacağından</Text>
+<BeginOffset>971</BeginOffset>
+<EndOffset>1016</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>duvarı taşıyan haberdardı bu duvarı taşıdığından</Text>
+<BeginOffset>1023</BeginOffset>
+<EndOffset>1071</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>3799</BeginOffset>
+<EndOffset>3802</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil'in kadın bedeni çizme tutkusu yaşama
+                    amacı haline gelmişti</Text>
+<BeginOffset>3733</BeginOffset>
+<EndOffset>3797</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>içinde bulunduğu ortamda bunu başarabilmesi
+                    neredeyse olanaksızdı</Text>
+<BeginOffset>3803</BeginOffset>
+<EndOffset>3868</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="conjunctive" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ya da</Text>
+<BeginOffset>2324</BeginOffset>
+<EndOffset>2329</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>İhanet edebilir mi yaşadıklarına</Text>
+<BeginOffset>2291</BeginOffset>
+<EndOffset>2323</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yüz üstü bırakabilir mi geleceğini</Text>
+<BeginOffset>2330</BeginOffset>
+<EndOffset>2364</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>8696</BeginOffset>
+<EndOffset>8701</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>gözetlediği bir kadın soluğunu daralttı, tüyleri
+                    diken diken oldu</Text>
+<BeginOffset>8702</BeginOffset>
+<EndOffset>8767</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>aylarca sabrettikten</Text>
+<BeginOffset>8675</BeginOffset>
+<EndOffset>8695</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="precedence önce'yi kaldırabiliyorum (yani optional bence) ama sonra'yı kaldıramıyorum" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>Önce</Text>
+<BeginOffset>7965</BeginOffset>
+<EndOffset>7969</EndOffset>
+</Span>
+<Span>
+<Text>Sonra</Text>
+<BeginOffset>7984</BeginOffset>
+<EndOffset>7989</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>biraz oturdu</Text>
+<BeginOffset>7970</BeginOffset>
+<EndOffset>7982</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>duvara sırtını verdi ve adımlayarak yukarıdan
+                    deliği açacağı yeri hesapladı</Text>
+<BeginOffset>7990</BeginOffset>
+<EndOffset>8065</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>arak</Text>
+<BeginOffset>8150</BeginOffset>
+<EndOffset>8154</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>banyodan çıktı</Text>
+<BeginOffset>8155</BeginOffset>
+<EndOffset>8169</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Peştamalı ve havluyu ıslat</Text>
+<BeginOffset>8124</BeginOffset>
+<EndOffset>8150</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>10162</BeginOffset>
+<EndOffset>10164</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ante hastaydı</Text>
+<BeginOffset>10148</BeginOffset>
+<EndOffset>10161</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bu hastalığı onu sevdiği kızı elde etmekten alıkoyuyordu</Text>
+<BeginOffset>10165</BeginOffset>
+<EndOffset>10221</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>3520</BeginOffset>
+<EndOffset>3524</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>sandalyemi itmen gerekiyordu</Text>
+<BeginOffset>3525</BeginOffset>
+<EndOffset>3553</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Sokakta birlikte olmak</Text>
+<BeginOffset>3497</BeginOffset>
+<EndOffset>3519</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>önce</Text>
+<BeginOffset>12940</BeginOffset>
+<EndOffset>12944</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>bana öldürücü bir darbe vurup intikam almaya hazırlanıyordu</Text>
+<BeginOffset>12945</BeginOffset>
+<EndOffset>13004</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>gitmeden</Text>
+<BeginOffset>12931</BeginOffset>
+<EndOffset>12939</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>6378</BeginOffset>
+<EndOffset>6380</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sabah çok erken saatte bir önceki akşam gün
+                    batmadan hemen önce astığı çamaşırları toplamaya çıkıyordu</Text>
+<BeginOffset>6275</BeginOffset>
+<EndOffset>6377</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>doğal olarak da gün batmadan o günkü çamaşırları
+                    asmak için geliyordu</Text>
+<BeginOffset>6381</BeginOffset>
+<EndOffset>6450</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>13802</BeginOffset>
+<EndOffset>13804</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Yüzüme bakarak iğrenç bir gülümseyişle intikamını perçinliyor</Text>
+<BeginOffset>13740</BeginOffset>
+<EndOffset>13801</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>gidiyordu</Text>
+<BeginOffset>13805</BeginOffset>
+<EndOffset>13814</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>15009</BeginOffset>
+<EndOffset>15014</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>öldürdüğünü sandı</Text>
+<BeginOffset>14976</BeginOffset>
+<EndOffset>14993</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>öldürüldüğünü</Text>
+<BeginOffset>14995</BeginOffset>
+<EndOffset>15008</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Adam</Text>
+<BeginOffset>14971</BeginOffset>
+<EndOffset>14975</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>11122</BeginOffset>
+<EndOffset>11124</EndOffset>
+</Span>
+</Conn>
+<Mod>
+<Span>
+<Text>Eğer</Text>
+<BeginOffset>11085</BeginOffset>
+<EndOffset>11089</EndOffset>
+</Span>
+</Mod>
+<Arg1>
+<Span>
+<Text>o büyük yangın çıkmamış olsaydı</Text>
+<BeginOffset>11090</BeginOffset>
+<EndOffset>11121</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Halil'in babası bir-iki gün daha yaşasaydı</Text>
+<BeginOffset>11125</BeginOffset>
+<EndOffset>11167</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Instantiation" pdtb3="yes" sense="EXPANSION: Instantiation" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>mesela</Text>
+<BeginOffset>2830</BeginOffset>
+<EndOffset>2836</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kızınca bir çocuk kadar bile olamazdım</Text>
+<BeginOffset>2761</BeginOffset>
+<EndOffset>2799</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bir tenekeye tekme atamazdım</Text>
+<BeginOffset>2801</BeginOffset>
+<EndOffset>2829</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>9876</BeginOffset>
+<EndOffset>9878</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Nakışçı çok yaşlı bir adamdı</Text>
+<BeginOffset>9847</BeginOffset>
+<EndOffset>9875</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kendisine kızı yardımcı oluyordu</Text>
+<BeginOffset>9879</BeginOffset>
+<EndOffset>9911</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>15180</BeginOffset>
+<EndOffset>15184</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>ağzını ve burnunu kapatacak biçimde bir eşarp bağladı</Text>
+<BeginOffset>15185</BeginOffset>
+<EndOffset>15238</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Odadaki iğrenç kokudan kurtulmak</Text>
+<BeginOffset>15147</BeginOffset>
+<EndOffset>15179</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>1098</BeginOffset>
+<EndOffset>1100</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sen de haberdar değildin</Text>
+<BeginOffset>1073</BeginOffset>
+<EndOffset>1097</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>ben hayatımda ilk kez yıkmaya değil aşmaya çalışıyordum</Text>
+<BeginOffset>1101</BeginOffset>
+<EndOffset>1156</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>gibi</Text>
+<BeginOffset>15419</BeginOffset>
+<EndOffset>15423</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>bulacağını da sanmıyordu</Text>
+<BeginOffset>15424</BeginOffset>
+<EndOffset>15448</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kahve değirmeninin nerede olduğunu bilmediği</Text>
+<BeginOffset>15374</BeginOffset>
+<EndOffset>15418</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>7246</BeginOffset>
+<EndOffset>7249</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Açtığı delikten haftalarca yıkanan kadınları gözetledi</Text>
+<BeginOffset>7190</BeginOffset>
+<EndOffset>7244</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>koca memeli ve yağlı kadınlardan başka pek bir şey göremiyordu</Text>
+<BeginOffset>7250</BeginOffset>
+<EndOffset>7312</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>11296</BeginOffset>
+<EndOffset>11301</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil çocukluğunu birlikte geçirdiği bu kızı</Text>
+<BeginOffset>11228</BeginOffset>
+<EndOffset>11272</EndOffset>
+</Span>
+<Span>
+<Text>hiç görmemişti</Text>
+<BeginOffset>11302</BeginOffset>
+<EndOffset>11316</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>gençliğe adım attıktan</Text>
+<BeginOffset>11273</BeginOffset>
+<EndOffset>11295</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="chosen alternative" pdtb3="yes" sense="EXPANSION: Substitution: Arg2-as-subst" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>Ya da</Text>
+<BeginOffset>2164</BeginOffset>
+<EndOffset>2169</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kaçmaktı en iyisi. Evet, kaçmak istiyordum. En
+                    çabuk nasıl gidebilirdim? Nasıl hızla
+                    uzaklaşabilirdim? Koşsam gücüm yeter miydi</Text>
+<BeginOffset>1938</BeginOffset>
+<EndOffset>2065</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>koşmak, kaçmak çare miydi kurtulmaya</Text>
+<BeginOffset>2170</BeginOffset>
+<EndOffset>2206</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>14590</BeginOffset>
+<EndOffset>14593</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bir şeyler anlatacaktın</Text>
+<BeginOffset>14565</BeginOffset>
+<EndOffset>14588</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>öyküyü bitirmemi bekliyordun</Text>
+<BeginOffset>14594</BeginOffset>
+<EndOffset>14622</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>964</BeginOffset>
+<EndOffset>967</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ben bu duvarı taşıyan birçok insan gördüm ve
+                    aşmaya değil yıkmaya çalıştım</Text>
+<BeginOffset>888</BeginOffset>
+<EndOffset>962</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>ne ben haberdardım bu duvarın yıkılamayacağından
+                    ne de duvarı taşıyan haberdardı bu duvarı taşıdığından</Text>
+<BeginOffset>968</BeginOffset>
+<EndOffset>1071</EndOffset>
+</Span>
+</Arg2>
+<Supp1>
+<Span>
+<Text>Benim yüreğim de duvar taşıyordu</Text>
+<BeginOffset>830</BeginOffset>
+<EndOffset>862</EndOffset>
+</Span>
+</Supp1>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>12288</BeginOffset>
+<EndOffset>12291</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kapım çalındığında karşımda duran yüzü hatırlamaya çalışıyordum</Text>
+<BeginOffset>12223</BeginOffset>
+<EndOffset>12286</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>zorlanıyordum</Text>
+<BeginOffset>12297</BeginOffset>
+<EndOffset>12310</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>8891</BeginOffset>
+<EndOffset>8894</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Peştamalını çıkartmasını bekliyordu. Halil işkencedeydi</Text>
+<BeginOffset>8834</BeginOffset>
+<EndOffset>8889</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>sonunda kadın peştamalını çıkartmaya başlamıştı</Text>
+<BeginOffset>8895</BeginOffset>
+<EndOffset>8942</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>281</BeginOffset>
+<EndOffset>284</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Dışa karşı güçlüydü</Text>
+<BeginOffset>260</BeginOffset>
+<EndOffset>279</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>içe, kendi yüreğine yıkılmak üzereydi</Text>
+<BeginOffset>285</BeginOffset>
+<EndOffset>322</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>4449</BeginOffset>
+<EndOffset>4453</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>soluğunu tuttu</Text>
+<BeginOffset>4454</BeginOffset>
+<EndOffset>4468</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Küf kokusunu andıran bu havayı içine çekmemek</Text>
+<BeginOffset>4403</BeginOffset>
+<EndOffset>4448</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>3992</BeginOffset>
+<EndOffset>3994</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>kadın bedeninin gizemi olmalıydı gözlerinin önünde</Text>
+<BeginOffset>3941</BeginOffset>
+<EndOffset>3991</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>tabloya yalnızca bu aktarılmalıydı</Text>
+<BeginOffset>3995</BeginOffset>
+<EndOffset>4029</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>6665</BeginOffset>
+<EndOffset>6667</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Gün ağarana dek uğraşıyor</Text>
+<BeginOffset>6639</BeginOffset>
+<EndOffset>6664</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kadın terasa çıkmadan önce kaçıyordu</Text>
+<BeginOffset>6668</BeginOffset>
+<EndOffset>6704</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>15370</BeginOffset>
+<EndOffset>15373</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Şimdi bir de bu kahveyi çekmesi gerekiyordu</Text>
+<BeginOffset>15325</BeginOffset>
+<EndOffset>15368</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kahve değirmeninin nerede olduğunu bilmediği gibi
+                    bulacağını da sanmıyordu</Text>
+<BeginOffset>15374</BeginOffset>
+<EndOffset>15448</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>8011</BeginOffset>
+<EndOffset>8013</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>duvara sırtını verdi</Text>
+<BeginOffset>7990</BeginOffset>
+<EndOffset>8010</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>adımlayarak yukarıdan deliği açacağı yeri hesapladı</Text>
+<BeginOffset>8014</BeginOffset>
+<EndOffset>8065</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="expectation" pdtb3="yes" sense="COMPARISON: Concession: Arg1-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>rağmen</Text>
+<BeginOffset>12430</BeginOffset>
+<EndOffset>12436</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>oralı olmuyordum</Text>
+<BeginOffset>12437</BeginOffset>
+<EndOffset>12453</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Benim için çok utandırıcı bir durum olmasına</Text>
+<BeginOffset>12385</BeginOffset>
+<EndOffset>12429</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>4084</BeginOffset>
+<EndOffset>4086</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>uzun süre dayanması</Text>
+<BeginOffset>4064</BeginOffset>
+<EndOffset>4083</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>renklerini koruması</Text>
+<BeginOffset>4087</BeginOffset>
+<EndOffset>4106</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>13251</BeginOffset>
+<EndOffset>13253</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Nerede olduğunu bilmediğimi söylüyor</Text>
+<BeginOffset>13214</BeginOffset>
+<EndOffset>13250</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>kestirip atıyordum</Text>
+<BeginOffset>13254</BeginOffset>
+<EndOffset>13272</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Synchronous" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ğinde</Text>
+<BeginOffset>10735</BeginOffset>
+<EndOffset>10740</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>donakaldı</Text>
+<BeginOffset>10741</BeginOffset>
+<EndOffset>10750</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>onları korkutacağı yere geldi</Text>
+<BeginOffset>10706</BeginOffset>
+<EndOffset>10735</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>4877</BeginOffset>
+<EndOffset>4882</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>yüksekçe bir duvardan atlayarak mahallenin
+                    dışındaki kadınlar hamamının bahçesine girdi</Text>
+<BeginOffset>4883</BeginOffset>
+<EndOffset>4970</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>epeyce koştuktan</Text>
+<BeginOffset>4860</BeginOffset>
+<EndOffset>4876</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Halil</Text>
+<BeginOffset>4853</BeginOffset>
+<EndOffset>4858</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>6729</BeginOffset>
+<EndOffset>6734</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>terastan hamama uzanan bir delik açmayı başardı</Text>
+<BeginOffset>6735</BeginOffset>
+<EndOffset>6782</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Haftalarca uğraştıktan</Text>
+<BeginOffset>6706</BeginOffset>
+<EndOffset>6728</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>2849</BeginOffset>
+<EndOffset>2854</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kızınca bir çocuk kadar bile olamazdım. Bir
+                    tenekeye tekme atamazdım</Text>
+<BeginOffset>2761</BeginOffset>
+<EndOffset>2829</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Kaçamazdım</Text>
+<BeginOffset>2838</BeginOffset>
+<EndOffset>2848</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>sonra</Text>
+<BeginOffset>4815</BeginOffset>
+<EndOffset>4820</EndOffset>
+</Span>
+</Conn>
+<Mod>
+<Span>
+<Text>da</Text>
+<BeginOffset>4821</BeginOffset>
+<EndOffset>4823</EndOffset>
+</Span>
+</Mod>
+<Arg1>
+<Span>
+<Text>Bu koşan adamın arkasından öylesine bakıyorlar</Text>
+<BeginOffset>4767</BeginOffset>
+<EndOffset>4813</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yollarına devam ediyorlardı</Text>
+<BeginOffset>4824</BeginOffset>
+<EndOffset>4851</EndOffset>
+</Span>
+</Arg2>
+<Supp1>
+<Span>
+<Text>Bu geç vakitte bile ortalıkta dolaşanlar vardı,
+                    ama Halil'le ilgilenmiyorlardı</Text>
+<BeginOffset>4687</BeginOffset>
+<EndOffset>4765</EndOffset>
+</Span>
+</Supp1>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="arg2'yi uzattik." pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>8671</BeginOffset>
+<EndOffset>8674</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Yine istediği kişiyi bir türlü görememişti</Text>
+<BeginOffset>8627</BeginOffset>
+<EndOffset>8669</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>aylarca sabrettikten sonra gözetlediği bir kadın
+                    soluğunu daralttı, tüyleri diken diken oldu</Text>
+<BeginOffset>8675</BeginOffset>
+<EndOffset>8767</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="disjunctive" pdtb3="yes" sense="EXPANSION: Disjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ya da</Text>
+<BeginOffset>2468</BeginOffset>
+<EndOffset>2473</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>yalnızken, terk etmişken</Text>
+<BeginOffset>2443</BeginOffset>
+<EndOffset>2467</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>terk edilmişken</Text>
+<BeginOffset>2474</BeginOffset>
+<EndOffset>2489</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Contrast" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>5153</BeginOffset>
+<EndOffset>5156</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Zincirleri çözülmemişti</Text>
+<BeginOffset>5128</BeginOffset>
+<EndOffset>5151</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>her an koparabilirlerdi</Text>
+<BeginOffset>5157</BeginOffset>
+<EndOffset>5180</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Purpose" pdtb3="yes" sense="CONTINGENCY: Purpose" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>için</Text>
+<BeginOffset>15787</BeginOffset>
+<EndOffset>15791</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>hemen duvara yaslandı</Text>
+<BeginOffset>15792</BeginOffset>
+<EndOffset>15813</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Görünmemek</Text>
+<BeginOffset>15776</BeginOffset>
+<EndOffset>15786</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ama</Text>
+<BeginOffset>15944</BeginOffset>
+<EndOffset>15947</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>İlk dört basamağı tek adımda inebildi</Text>
+<BeginOffset>15905</BeginOffset>
+<EndOffset>15942</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bastığı yerde bileği burkuldu</Text>
+<BeginOffset>15948</BeginOffset>
+<EndOffset>15977</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Conjunction" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>15671</BeginOffset>
+<EndOffset>15673</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>havalandı</Text>
+<BeginOffset>15661</BeginOffset>
+<EndOffset>15670</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>sokağın öbür ucuna doğru uçmaya başladı</Text>
+<BeginOffset>15674</BeginOffset>
+<EndOffset>15713</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>kelebek</Text>
+<BeginOffset>15653</BeginOffset>
+<EndOffset>15660</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="expectation" pdtb3="yes" sense="COMPARISON: Concession: Arg1-as-denier" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>rağmen</Text>
+<BeginOffset>5096</BeginOffset>
+<EndOffset>5102</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>havlamaya başlamışlardı</Text>
+<BeginOffset>5103</BeginOffset>
+<EndOffset>5126</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bahçenin öbür tarafında olmalarına</Text>
+<BeginOffset>5061</BeginOffset>
+<EndOffset>5095</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Köpekler</Text>
+<BeginOffset>5051</BeginOffset>
+<EndOffset>5059</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation note="contra-expectation" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>Ancak</Text>
+<BeginOffset>8944</BeginOffset>
+<EndOffset>8949</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>sonunda kadın peştamalını çıkartmaya başlamıştı</Text>
+<BeginOffset>8895</BeginOffset>
+<EndOffset>8942</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>aylardır çamaşır saatlerinde değişiklik yapmayan
+                    hamamcı, inanılmaz bir şekilde terasa çıkıyordu.
+                    Ayağındaki takunyaların sesi duyulmasa Halil az daha yakalanacaktı</Text>
+<BeginOffset>8951</BeginOffset>
+<EndOffset>9115</EndOffset>
+</Span>
+</Arg2>
+<Supp1>
+<Span>
+<Text>aylarca sabrettikten sonra gözetlediği bir kadın
+                    soluğunu daralttı, tüyleri diken diken oldu</Text>
+<BeginOffset>8675</BeginOffset>
+<EndOffset>8767</EndOffset>
+</Span>
+</Supp1>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="propositional." pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" tag="inter" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>Ama</Text>
+<BeginOffset>446</BeginOffset>
+<EndOffset>449</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Vazgeçmek kolaydı, ertelemek de</Text>
+<BeginOffset>413</BeginOffset>
+<EndOffset>444</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>tırmanmaya başlandı mı bitirilmeli</Text>
+<BeginOffset>450</BeginOffset>
+<EndOffset>484</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="conjunctive" pdtb3="yes" sense="EXPANSION: Conjunction" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>ve</Text>
+<BeginOffset>930</BeginOffset>
+<EndOffset>932</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>taşıyan birçok insan gördüm</Text>
+<BeginOffset>902</BeginOffset>
+<EndOffset>929</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>aşmaya değil yıkmaya çalıştım</Text>
+<BeginOffset>933</BeginOffset>
+<EndOffset>962</EndOffset>
+</Span>
+</Arg2>
+<Supp1>
+<Span>
+<Text>Benim yüreğim de duvar taşıyordu</Text>
+<BeginOffset>830</BeginOffset>
+<EndOffset>862</EndOffset>
+</Span>
+</Supp1>
+<Supp2/>
+<Shared>
+<Span>
+<Text>Ben bu duvarı</Text>
+<BeginOffset>888</BeginOffset>
+<EndOffset>901</EndOffset>
+</Span>
+</Shared>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Precedence" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>önce</Text>
+<BeginOffset>6334</BeginOffset>
+<EndOffset>6338</EndOffset>
+</Span>
+</Conn>
+<Mod>
+<Span>
+<Text>hemen</Text>
+<BeginOffset>6328</BeginOffset>
+<EndOffset>6333</EndOffset>
+</Span>
+</Mod>
+<Arg1>
+<Span>
+<Text>astığı</Text>
+<BeginOffset>6339</BeginOffset>
+<EndOffset>6345</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bir önceki akşam gün batmadan</Text>
+<BeginOffset>6298</BeginOffset>
+<EndOffset>6327</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" tag="intra" type="EXPLICIT">
+<Conn>
+<Span>
+<Text>aslında</Text>
+<BeginOffset>3125</BeginOffset>
+<EndOffset>3132</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ben kızgınken tam önüme bakardım</Text>
+<BeginOffset>3092</BeginOffset>
+<EndOffset>3124</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Ben kızgınken tam önüme bakardım</Text>
+<BeginOffset>3092</BeginOffset>
+<EndOffset>3124</EndOffset>
+</Span>
+<Span>
+<Text>senin gözlerine değil</Text>
+<BeginOffset>3134</BeginOffset>
+<EndOffset>3155</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession: sonra" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>5405</BeginOffset>
+<EndOffset>5406</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Neredeyse sürünerek terasa çıkmayı başardı</Text>
+<BeginOffset>5361</BeginOffset>
+<EndOffset>5403</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bir süre olduğu yerde kıvrandı</Text>
+<BeginOffset>5405</BeginOffset>
+<EndOffset>5435</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>H</Text>
+<BeginOffset>13006</BeginOffset>
+<EndOffset>13007</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>gitmeden önce bana öldürücü bir darbe vurup
+                    intikam almaya hazırlanıyordu</Text>
+<BeginOffset>12931</BeginOffset>
+<EndOffset>13004</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Hemen en etkili silahını çekerek konuyu sana getiriyordu</Text>
+<BeginOffset>13006</BeginOffset>
+<EndOffset>13062</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="öyle ki" pdtb3="yes" sense="EXPANSION: Conjunction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ante</Text>
+<BeginOffset>9577</BeginOffset>
+<EndOffset>9581</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil her gün şarap satın almaya gidiyor, bu
+                    bahaneyle de tek dostu olan Ante'yle konuşuyordu</Text>
+<BeginOffset>9482</BeginOffset>
+<EndOffset>9575</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> bu genç ressamın her sırrını biliyor ve onu çok
+                    iyi anlıyordu</Text>
+<BeginOffset>9581</BeginOffset>
+<EndOffset>9643</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="ve" pdtb3="yes" sense="EXPANSION: Conjunction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Hayal</Text>
+<BeginOffset>9645</BeginOffset>
+<EndOffset>9650</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ante bu genç ressamın her sırrını biliyor ve onu
+                    çok iyi anlıyordu</Text>
+<BeginOffset>9577</BeginOffset>
+<EndOffset>9643</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> etme gücünü kaybetmemesini söyleyerek sürekli
+                    resim çizmesini telkin ediyordu</Text>
+<BeginOffset>9650</BeginOffset>
+<EndOffset>9728</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: bu yüzden" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>5326</BeginOffset>
+<EndOffset>5327</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Dizini bir üst basamağın köşesine çarptı</Text>
+<BeginOffset>5284</BeginOffset>
+<EndOffset>5324</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Büyük bir acıyla inlemeye başladı</Text>
+<BeginOffset>5326</BeginOffset>
+<EndOffset>5359</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Bir yandan da" pdtb3="yes" sense="TEMPORAL: Synchronous" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Peştamalını </Text>
+<BeginOffset>8834</BeginOffset>
+<EndOffset>8846</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kadının yüzünü beynine kazıdı.</Text>
+<BeginOffset>8803</BeginOffset>
+<EndOffset>8833</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>çıkartmasını bekliyordu.</Text>
+<BeginOffset>8846</BeginOffset>
+<EndOffset>8870</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="opposition: ama" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Yine</Text>
+<BeginOffset>7474</BeginOffset>
+<EndOffset>7478</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hususi banyolar diğer köşede olmalıydı</Text>
+<BeginOffset>7434</BeginOffset>
+<EndOffset>7472</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>bir yanlışlık yapmamak için içeriye girip hususi
+                    banyoların tam yerini öğrenmeliydi</Text>
+<BeginOffset>7479</BeginOffset>
+<EndOffset>7562</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="succession: sonra (yeni)" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Birden</Text>
+<BeginOffset>4663</BeginOffset>
+<EndOffset>4669</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sokağın başına kadar yürüdü</Text>
+<BeginOffset>4634</BeginOffset>
+<EndOffset>4661</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>koşmaya başladı</Text>
+<BeginOffset>4670</BeginOffset>
+<EndOffset>4685</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ağır </Text>
+<BeginOffset>4591</BeginOffset>
+<EndOffset>4596</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Odadan çıkar çıkmaz derin soluk alıp dinlendi</Text>
+<BeginOffset>4544</BeginOffset>
+<EndOffset>4589</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>ağır merdivenleri indi</Text>
+<BeginOffset>4596</BeginOffset>
+<EndOffset>4618</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="Çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Meyhanesinden</Text>
+<BeginOffset>10223</BeginOffset>
+<EndOffset>10236</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>bu hastalığı onu sevdiği kızı elde etmekten alıkoyuyordu</Text>
+<BeginOffset>10165</BeginOffset>
+<EndOffset>10221</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> dışarı çıkamıyordu</Text>
+<BeginOffset>10236</BeginOffset>
+<EndOffset>10255</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="ama" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Bunu</Text>
+<BeginOffset>6784</BeginOffset>
+<EndOffset>6788</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Haftalarca uğraştıktan sonra terastan hamama
+                    uzanan bir delik açmayı başardı</Text>
+<BeginOffset>6706</BeginOffset>
+<EndOffset>6782</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> yaparken de paha biçilmez padişah hediyesini
+                    hurdaya çıkardı</Text>
+<BeginOffset>6788</BeginOffset>
+<EndOffset>6849</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: bu yüzden" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>D</Text>
+<BeginOffset>6935</BeginOffset>
+<EndOffset>6936</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Artık  gündüzleri terasta kalmak zorundaydı, çünkü
+                    hamam gündüzleri açıktı</Text>
+<BeginOffset>6859</BeginOffset>
+<EndOffset>6933</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Dikkat çekmemek için geceden gidip terasa gizleniyordu</Text>
+<BeginOffset>6935</BeginOffset>
+<EndOffset>6989</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="juxtaposition: -ken" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Y</Text>
+<BeginOffset>1235</BeginOffset>
+<EndOffset>1236</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Dikenli tellerle çeviriyordun bu duvarı</Text>
+<BeginOffset>1194</BeginOffset>
+<EndOffset>1233</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Yaralanıyordum tırmanırken, kanıyordum</Text>
+<BeginOffset>1235</BeginOffset>
+<EndOffset>1273</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Eğer</Text>
+<BeginOffset>11085</BeginOffset>
+<EndOffset>11089</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hususi banyoda gördüğü bu kadın mahalleden komşularıydı</Text>
+<BeginOffset>11028</BeginOffset>
+<EndOffset>11083</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> o büyük yangın çıkmamış olsaydı ve Halil'in
+                    babası bir-iki gün daha yaşasaydı, birkaç ev
+                    ötelerinde oturan bu kızı oğlu için isteyecekti</Text>
+<BeginOffset>11089</BeginOffset>
+<EndOffset>11226</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>D</Text>
+<BeginOffset>9293</BeginOffset>
+<EndOffset>9294</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Zihninde canlanan güzel yüzün altına çıplak bir
+                    beden hayal edip resmedemiyordu</Text>
+<BeginOffset>9212</BeginOffset>
+<EndOffset>9291</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Delirmek üzereydi</Text>
+<BeginOffset>9293</BeginOffset>
+<EndOffset>9310</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ö</Text>
+<BeginOffset>14666</BeginOffset>
+<EndOffset>14667</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ben de parçası olduğum bu oyunu bozmadım</Text>
+<BeginOffset>14624</BeginOffset>
+<EndOffset>14664</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Öyküye devam ettim</Text>
+<BeginOffset>14666</BeginOffset>
+<EndOffset>14684</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>A</Text>
+<BeginOffset>10148</BeginOffset>
+<EndOffset>10149</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kafasında kendi derdinin yanında Ante'ninki
+                    de vardı</Text>
+<BeginOffset>10093</BeginOffset>
+<EndOffset>10145</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Ante hastaydı ve bu hastalığı onu sevdiği kızı
+                    elde etmekten alıkoyuyordu</Text>
+<BeginOffset>10148</BeginOffset>
+<EndOffset>10221</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="correction: bilakis" pdtb3="yes" sense="EXPANSION: Correction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>G</Text>
+<BeginOffset>2567</BeginOffset>
+<EndOffset>2568</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ben yere bakmazdım</Text>
+<BeginOffset>2547</BeginOffset>
+<EndOffset>2565</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Gözüne gözüne bakardım insanların</Text>
+<BeginOffset>2567</BeginOffset>
+<EndOffset>2600</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Kimseye</Text>
+<BeginOffset>7699</BeginOffset>
+<EndOffset>7706</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sabah kadınlar gelmeye başlayınca çarşafları
+                    giyerek terastan indi</Text>
+<BeginOffset>7631</BeginOffset>
+<EndOffset>7697</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> belli etmeden duvardan dışarı atladı</Text>
+<BeginOffset>7706</BeginOffset>
+<EndOffset>7743</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>7392</BeginOffset>
+<EndOffset>7393</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kadınlar oldukça kapalıydılar</Text>
+<BeginOffset>7361</BeginOffset>
+<EndOffset>7390</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bu Halil'e yeterli malzemeyi veremiyordu</Text>
+<BeginOffset>7392</BeginOffset>
+<EndOffset>7432</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: bu yüzden" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>H</Text>
+<BeginOffset>10433</BeginOffset>
+<EndOffset>10434</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Dükkânın sonunda adamın kızı bir müşteriye oya
+                    örnekleri gösteriyordu</Text>
+<BeginOffset>10362</BeginOffset>
+<EndOffset>10431</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Halil'in geldiğini fark etmediler</Text>
+<BeginOffset>10433</BeginOffset>
+<EndOffset>10466</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>13843</BeginOffset>
+<EndOffset>13844</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Evet, intikamını alıyordu</Text>
+<BeginOffset>13816</BeginOffset>
+<EndOffset>13841</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Beni ağlatıyor, içimi kanatıyor, bilmediğim
+                    yerlerden tuhaf bir acı hissettiriyordu</Text>
+<BeginOffset>13843</BeginOffset>
+<EndOffset>13926</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>D</Text>
+<BeginOffset>14849</BeginOffset>
+<EndOffset>14850</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Resim çizmeye çalıştı, beceremedi</Text>
+<BeginOffset>14814</BeginOffset>
+<EndOffset>14847</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Duvarları yumrukladı</Text>
+<BeginOffset>14849</BeginOffset>
+<EndOffset>14869</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Specification: Şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Hususi</Text>
+<BeginOffset>11028</BeginOffset>
+<EndOffset>11034</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bir anda bu yüzü nereden tanıdığını hatırladı</Text>
+<BeginOffset>10981</BeginOffset>
+<EndOffset>11026</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Hususi banyoda gördüğü bu kadın mahalleden komşularıydı</Text>
+<BeginOffset>11028</BeginOffset>
+<EndOffset>11083</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ayağındaki</Text>
+<BeginOffset>9049</BeginOffset>
+<EndOffset>9059</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ancak, aylardır çamaşır saatlerinde değişiklik
+                    yapmayan hamamcı, inanılmaz bir şekilde terasa çıkıyordu</Text>
+<BeginOffset>8944</BeginOffset>
+<EndOffset>9047</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> takunyaların sesi duyulmasa Halil az daha yakalanacaktı</Text>
+<BeginOffset>9059</BeginOffset>
+<EndOffset>9115</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="instantiaton: örneğin" pdtb3="yes" sense="EXPANSION: Instantiation" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Işıklar</Text>
+<BeginOffset>1728</BeginOffset>
+<EndOffset>1735</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sanki lunaparklarda insanın içini ürperten dev
+                    oyuncaklardan birisinin en tepesindeydim</Text>
+<BeginOffset>1639</BeginOffset>
+<EndOffset>1726</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yanıp sönüyor, yüksek tonda sevmediğim bir müzik çalıyordu</Text>
+<BeginOffset>1736</BeginOffset>
+<EndOffset>1794</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="ve sonra" pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" sense2="EXPANSION: Conjunction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Elleri</Text>
+<BeginOffset>10752</BeginOffset>
+<EndOffset>10758</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>alil onları korkutacağı yere geldiğinde donakaldı</Text>
+<BeginOffset>10701</BeginOffset>
+<EndOffset>10750</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>, ayakları titremeye başladı</Text>
+<BeginOffset>10758</BeginOffset>
+<EndOffset>10786</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="CONTINGENCY: Cause+Belief: Reason+Belief (Arg2-gives-evidence)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Nerede</Text>
+<BeginOffset>13214</BeginOffset>
+<EndOffset>13220</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Karşımda oturan ürkek, duygusal kişi gidiyor,
+                    yerine intikam hırsıyla gözleri parlayan bir canavar geliyordu</Text>
+<BeginOffset>13104</BeginOffset>
+<EndOffset>13212</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> olduğunu bilmediğimi söylüyor ve kestirip
+                    atıyordum ama, eski dost ısrarla seni sormaya devam ediyordu</Text>
+<BeginOffset>13220</BeginOffset>
+<EndOffset>13323</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>S</Text>
+<BeginOffset>6275</BeginOffset>
+<EndOffset>6276</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hamamcının karısı olduğunu sandığı kadın günde iki
+                    kez terasa çıkarak havlu ve peştamalları asıyor, topluyordu</Text>
+<BeginOffset>6163</BeginOffset>
+<EndOffset>6273</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Sabah çok erken saatte bir önceki akşam gün
+                    batmadan hemen önce astığı çamaşırları toplamaya
+                    çıkıyordu ve doğal olarak da gün batmadan o günkü
+                    çamaşırları asmak için geliyordu</Text>
+<BeginOffset>6275</BeginOffset>
+<EndOffset>6450</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Opposition: Ama" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>İzin</Text>
+<BeginOffset>1158</BeginOffset>
+<EndOffset>1162</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sen de haberdar değildin ve ben hayatımda ilk kez
+                    yıkmaya değil aşmaya çalışıyordum</Text>
+<BeginOffset>1073</BeginOffset>
+<EndOffset>1156</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>İzin vermiyor, engeller koyuyordun</Text>
+<BeginOffset>1158</BeginOffset>
+<EndOffset>1192</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="opposition: ama" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>bir</Text>
+<BeginOffset>11740</BeginOffset>
+<EndOffset>11743</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bir yanım senden nefret ediyor, kin kusuyor,
+                    anılarını, yaşattıklarını, hatta varlığını yadsıyor</Text>
+<BeginOffset>11642</BeginOffset>
+<EndOffset>11738</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yanım seni çok seviyor, kucaklıyor, kurmaca
+                    odalarda, kurmaca müzikler eşliğinde seninle dans ediyordu</Text>
+<BeginOffset>11744</BeginOffset>
+<EndOffset>11846</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="instantiation: örneğin" pdtb3="yes" sense="EXPANSION: Instantiation" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ç</Text>
+<BeginOffset>4220</BeginOffset>
+<EndOffset>4221</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hiçbir tablosu değerli değildi onun için</Text>
+<BeginOffset>4178</BeginOffset>
+<EndOffset>4218</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Çocukları gibi sevdiği resimlerine kolayca tekme
+                    atabiliyordu artık</Text>
+<BeginOffset>4220</BeginOffset>
+<EndOffset>4287</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>H</Text>
+<BeginOffset>9482</BeginOffset>
+<EndOffset>9483</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ermeni Ante olmasa intihar edecek duruma gelmişti</Text>
+<BeginOffset>9431</BeginOffset>
+<EndOffset>9480</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Halil her gün şarap satın almaya gidiyor, bu
+                    bahaneyle de tek dostu olan Ante'yle konuşuyordu</Text>
+<BeginOffset>9482</BeginOffset>
+<EndOffset>9575</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="instantiation: şöyle ki" pdtb3="yes" sense="EXPANSION: Instantiation" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>D</Text>
+<BeginOffset>1194</BeginOffset>
+<EndOffset>1195</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>İzin vermiyor, engeller koyuyordun</Text>
+<BeginOffset>1158</BeginOffset>
+<EndOffset>1192</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Dikenli tellerle çeviriyordun bu duvarı</Text>
+<BeginOffset>1194</BeginOffset>
+<EndOffset>1233</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>T</Text>
+<BeginOffset>10788</BeginOffset>
+<EndOffset>10789</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Elleri, ayakları titremeye başladı</Text>
+<BeginOffset>10752</BeginOffset>
+<EndOffset>10786</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Terastaki delikten gördüğü kadın karşısındaydı</Text>
+<BeginOffset>10788</BeginOffset>
+<EndOffset>10834</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="pragmatic contrast: ama zaten" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>13552</BeginOffset>
+<EndOffset>13553</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Senin nerede olduğunu bildiğini söylüyor ve hatta
+                    tam adresini bile veriyordu</Text>
+<BeginOffset>13473</BeginOffset>
+<EndOffset>13550</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bu adreste seni bulamayacağımı da ekliyordu</Text>
+<BeginOffset>13552</BeginOffset>
+<EndOffset>13595</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>14078</BeginOffset>
+<EndOffset>14079</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Anlatmanı istemiyordum zaten</Text>
+<BeginOffset>14047</BeginOffset>
+<EndOffset>14075</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Benim olmadığını' senin sesinden duymak
+                    amaçsız bırakırdı beni</Text>
+<BeginOffset>14078</BeginOffset>
+<EndOffset>14140</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Sabah</Text>
+<BeginOffset>7631</BeginOffset>
+<EndOffset>7636</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Çarşıdan satın aldığı çarşaflarla geceden giderek
+                    terasa saklandı</Text>
+<BeginOffset>7564</BeginOffset>
+<EndOffset>7629</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> kadınlar gelmeye başlayınca çarşafları giyerek
+                    terastan indi</Text>
+<BeginOffset>7636</BeginOffset>
+<EndOffset>7697</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="purpose: bu amaçla" pdtb3="yes" sense="CONTINGENCY: Purpose" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Ç</Text>
+<BeginOffset>7564</BeginOffset>
+<EndOffset>7565</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Yine bir yanlışlık yapmamak için içeriye girip
+                    hususi banyoların tam yerini öğrenmeliydi</Text>
+<BeginOffset>7474</BeginOffset>
+<EndOffset>7562</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Çarşıdan satın aldığı çarşaflarla geceden giderek
+                    terasa saklandı</Text>
+<BeginOffset>7564</BeginOffset>
+<EndOffset>7629</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Parasını</Text>
+<BeginOffset>7771</BeginOffset>
+<EndOffset>7779</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hamamın girişine yöneldi</Text>
+<BeginOffset>7745</BeginOffset>
+<EndOffset>7769</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> ödedi</Text>
+<BeginOffset>7779</BeginOffset>
+<EndOffset>7785</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Synchronous" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Acele</Text>
+<BeginOffset>8237</BeginOffset>
+<EndOffset>8242</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Korkuyla titredi Halil peçenin ardında</Text>
+<BeginOffset>8197</BeginOffset>
+<EndOffset>8235</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> hareketlerle malzemeleri teslim ederek çıktı</Text>
+<BeginOffset>8242</BeginOffset>
+<EndOffset>8287</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>A</Text>
+<BeginOffset>11559</BeginOffset>
+<EndOffset>11560</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Evine doğru deli gibi koşarken amacına biraz daha
+                    yaklaşmanın sevincini yaşıyordu</Text>
+<BeginOffset>11476</BeginOffset>
+<EndOffset>11557</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Artık biliyordu en azından, aradığı kişi Peride'ydi</Text>
+<BeginOffset>11559</BeginOffset>
+<EndOffset>11610</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>K</Text>
+<BeginOffset>6006</BeginOffset>
+<EndOffset>6007</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bunları ses çıkarmamaya çalışarak düzenledi</Text>
+<BeginOffset>5961</BeginOffset>
+<EndOffset>6004</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Kuşku uyandırmamak amacıyla eski hallerini de pek
+                    bozmadan, kolay kolay fark edilemeyecek güvenli bir
+                    köşe oluşturdu</Text>
+<BeginOffset>6006</BeginOffset>
+<EndOffset>6122</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>D</Text>
+<BeginOffset>5284</BeginOffset>
+<EndOffset>5285</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Basamakları tırmanırken ayağı kaydı</Text>
+<BeginOffset>5247</BeginOffset>
+<EndOffset>5282</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Dizini bir üst basamağın köşesine çarptı</Text>
+<BeginOffset>5284</BeginOffset>
+<EndOffset>5324</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="conjunction: ve" pdtb3="yes" sense="EXPANSION: Conjunction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Haklıydın</Text>
+<BeginOffset>3430</BeginOffset>
+<EndOffset>3439</EndOffset>
+</Span>
+</Conn>
+<Arg1>
+<Span>
+<Text>Dudaklarına aç bir yaban hayvanı gibi uzanan
+                    dudaklarımı istemiyordun</Text>
+<BeginOffset>3359</BeginOffset>
+<EndOffset>3428</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Haklıydın</Text>
+<BeginOffset>3430</BeginOffset>
+<EndOffset>3439</EndOffset>
+</Span>
+</Arg2>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Peştamal;</Text>
+<BeginOffset>7787</BeginOffset>
+<EndOffset>7796</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Parasını ödedi</Text>
+<BeginOffset>7771</BeginOffset>
+<EndOffset>7785</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>havlu ve takunyasını hamamcı kadından alarak
+                    hususi banyoların yerini sordu oldukça incelttiği sesiyle</Text>
+<BeginOffset>7797</BeginOffset>
+<EndOffset>7899</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="Reason: Çünkü" pdtb3="yes" sense="CONTINGENCY: Cause+SpeechAct: Reason+SpeechAct (Arg2-as-reason)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Yukarıda</Text>
+<BeginOffset>15079</BeginOffset>
+<EndOffset>15087</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kahve içince kendine gelebileceğini düşünerek
+                    mahzenden çıktı</Text>
+<BeginOffset>15016</BeginOffset>
+<EndOffset>15077</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Yukarıda, babasının odasında çuvallarla kahve vardı</Text>
+<BeginOffset>15079</BeginOffset>
+<EndOffset>15130</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Sonra" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Tezgâhın</Text>
+<BeginOffset>10544</BeginOffset>
+<EndOffset>10552</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil de içtiği içkilerin etkisiyle kadınlara bir
+                    şaka yapmaya karar verdi</Text>
+<BeginOffset>10468</BeginOffset>
+<EndOffset>10542</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> arkasına girerek kadınların olduğu tarafa dolandı</Text>
+<BeginOffset>10552</BeginOffset>
+<EndOffset>10602</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="opposition: ama" pdtb3="yes" sense="COMPARISON: Contrast" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Aşmaya</Text>
+<BeginOffset>864</BeginOffset>
+<EndOffset>870</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text> Benim yüreğim de duvar taşıyordu</Text>
+<BeginOffset>829</BeginOffset>
+<EndOffset>862</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>yeltenen olmadı</Text>
+<BeginOffset>871</BeginOffset>
+<EndOffset>886</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Korkaktım</Text>
+<BeginOffset>2706</BeginOffset>
+<EndOffset>2715</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Gözlerine bakamazdım ben insanların</Text>
+<BeginOffset>2669</BeginOffset>
+<EndOffset>2704</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>ben</Text>
+<BeginOffset>2716</BeginOffset>
+<EndOffset>2719</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="ama" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Zihninde</Text>
+<BeginOffset>9212</BeginOffset>
+<EndOffset>9220</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Geceler boyu bir yerlerden yüzünü hatırladığı bu
+                    kadının kim olduğunu bulmaya çalıştı</Text>
+<BeginOffset>9125</BeginOffset>
+<EndOffset>9210</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> canlanan güzel yüzün altına çıplak bir beden
+                    hayal edip resmedemiyordu</Text>
+<BeginOffset>9220</BeginOffset>
+<EndOffset>9291</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="Sonunda" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Haftalarca</Text>
+<BeginOffset>6706</BeginOffset>
+<EndOffset>6716</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Gün ağarana dek uğraşıyor ve kadın terasa çıkmadan
+                    önce kaçıyordu</Text>
+<BeginOffset>6639</BeginOffset>
+<EndOffset>6704</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> uğraştıktan sonra terastan hamama uzanan bir
+                    delik açmayı başardı</Text>
+<BeginOffset>6716</BeginOffset>
+<EndOffset>6782</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>2547</BeginOffset>
+<EndOffset>2548</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bu ben değildim</Text>
+<BeginOffset>2530</BeginOffset>
+<EndOffset>2545</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Ben yere bakmazdım</Text>
+<BeginOffset>2547</BeginOffset>
+<EndOffset>2565</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="result: sonuç olarak" pdtb3="yes" sense="CONTINGENCY: Cause: Result(Arg2-as-result)" sense2="EXPANSION: Conjunction" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>12747</BeginOffset>
+<EndOffset>12748</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ben de özenle sakatlığımı anımsatacak cümleler
+                    kuruyordum geçmişe ilişkin görüntüleri hatırlatarak</Text>
+<BeginOffset>12647</BeginOffset>
+<EndOffset>12745</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Büyük bir zevkle karşımdakinin duyduğu
+                    huzursuzluğu hissediyordum</Text>
+<BeginOffset>12747</BeginOffset>
+<EndOffset>12812</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="equivalence: bir başka deyişle" pdtb3="yes" sense="EXPANSION: Equivalence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>H</Text>
+<BeginOffset>7161</BeginOffset>
+<EndOffset>7162</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Zaten kadın akşamdan astığı çamaşırları aceleyle
+                    topluyor ve çevresine hiç bakmadan hemen gidiyordu</Text>
+<BeginOffset>7060</BeginOffset>
+<EndOffset>7159</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Halil'i görmesi olanaksızdı</Text>
+<BeginOffset>7161</BeginOffset>
+<EndOffset>7188</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="EXPANSION: Conjunction" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>A</Text>
+<BeginOffset>3902</BeginOffset>
+<EndOffset>3903</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Çareler düşünüyor, bulamıyordu</Text>
+<BeginOffset>3870</BeginOffset>
+<EndOffset>3900</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Artık bir şey çizemez olmuştu</Text>
+<BeginOffset>3902</BeginOffset>
+<EndOffset>3931</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" pdtb3="yes" sense="CONTINGENCY: Cause: Reason(Arg1-as-result)" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Dikkat</Text>
+<BeginOffset>8067</BeginOffset>
+<EndOffset>8073</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sonra duvara sırtını verdi ve adımlayarak
+                    yukarıdan deliği açacağı yeri hesapladı</Text>
+<BeginOffset>7984</BeginOffset>
+<EndOffset>8065</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> çekici bir yerde olmamalıydı</Text>
+<BeginOffset>8073</BeginOffset>
+<EndOffset>8102</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="reason: çünkü (yeni)" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Korkmuyordum</Text>
+<BeginOffset>1319</BeginOffset>
+<EndOffset>1331</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Kırılıyordum, acıyordum, ama bırakmıyordum</Text>
+<BeginOffset>1275</BeginOffset>
+<EndOffset>1317</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>etimin kesilmesinden, duygularımın can çekişmesinden</Text>
+<BeginOffset>1332</BeginOffset>
+<EndOffset>1384</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="contra-expectation: arg1. buna rağmen, arg2" pdtb3="yes" sense="COMPARISON: Concession: Arg2-as-denier" sense2="" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>N</Text>
+<BeginOffset>5361</BeginOffset>
+<EndOffset>5362</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Büyük bir acıyla inlemeye başladı</Text>
+<BeginOffset>5326</BeginOffset>
+<EndOffset>5359</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Neredeyse sürünerek terasa çıkmayı başardı</Text>
+<BeginOffset>5361</BeginOffset>
+<EndOffset>5403</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Specification: Şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Yokluğunda</Text>
+<BeginOffset>11939</BeginOffset>
+<EndOffset>11949</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Hep yaşam öykülerini okuduğumuz, birden çok
+                    kişilik taşıyan insanlara benziyordum gitgide</Text>
+<BeginOffset>11848</BeginOffset>
+<EndOffset>11937</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Yokluğunda seni yadsıyan yanım öbürüne yenik
+                    düşüyordu ve geçmişe ait imlerden yararlanarak seni
+                    yaratıyordum yanı başımda</Text>
+<BeginOffset>11939</BeginOffset>
+<EndOffset>12061</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Gün</Text>
+<BeginOffset>6639</BeginOffset>
+<EndOffset>6642</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil, kadın çamaşırları astıktan sonra bekliyor
+                    ve hava kararınca terasa çıkıyordu</Text>
+<BeginOffset>6554</BeginOffset>
+<EndOffset>6637</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> ağarana dek uğraşıyor ve kadın terasa çıkmadan
+                    önce kaçıyordu</Text>
+<BeginOffset>6642</BeginOffset>
+<EndOffset>6704</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="Sonra" pdtb3="yes" sense="TEMPORAL: Asynchronous: Precedence" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Kendisini</Text>
+<BeginOffset>7901</BeginOffset>
+<EndOffset>7910</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Peştamal; havlu ve takunyasını hamamcı kadından
+                    alarak hususi banyoların yerini sordu oldukça
+                    incelttiği sesiyle</Text>
+<BeginOffset>7787</BeginOffset>
+<EndOffset>7899</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> banyolardan birisine attığında soluk soluğa kalmıştı</Text>
+<BeginOffset>7910</BeginOffset>
+<EndOffset>7963</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>5961</BeginOffset>
+<EndOffset>5962</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Köşede duran eski, kırık kurnaları ve tuvalet
+                    taşlarını görünce hemen işe girişti</Text>
+<BeginOffset>5878</BeginOffset>
+<EndOffset>5959</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bunları ses çıkarmamaya çalışarak düzenledi</Text>
+<BeginOffset>5961</BeginOffset>
+<EndOffset>6004</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>Sayısı</Text>
+<BeginOffset>9913</BeginOffset>
+<EndOffset>9919</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Nakışçı çok yaşlı bir adamdı ve kendisine kızı
+                    yardımcı oluyordu</Text>
+<BeginOffset>9847</BeginOffset>
+<EndOffset>9911</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> oldukça fazla olan kadın müşterilerle bu kız ilgileniyordu</Text>
+<BeginOffset>9919</BeginOffset>
+<EndOffset>9978</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation genre="novel" note="specification: şöyle ki" pdtb3="yes" sense="EXPANSION: Level-of-detail: Arg2-as-detail" type="IMPLICIT">
+<Conn>
+<Span>
+<Text>B</Text>
+<BeginOffset>4767</BeginOffset>
+<EndOffset>4768</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Bu geç vakitte bile ortalıkta dolaşanlar vardı,
+                    ama Halil'le ilgilenmiyorlardı</Text>
+<BeginOffset>4687</BeginOffset>
+<EndOffset>4765</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Bu koşan adamın arkasından öylesine bakıyorlar,
+                    sonra da yollarına devam ediyorlardı</Text>
+<BeginOffset>4767</BeginOffset>
+<EndOffset>4851</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note='Murathan: ALTLEX karşılığı "mesela" olabilir. Instantiation Agreed DZ. ' pdtb3="yes" sense="EXPANSION: Instantiation" type="ALTLEX">
+<Conn>
+<Span>
+<Text>En basiti</Text>
+<BeginOffset>3441</BeginOffset>
+<EndOffset>3450</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Dudaklarına aç bir yaban hayvanı gibi uzanan
+                    dudaklarımı istemiyordun</Text>
+<BeginOffset>3359</BeginOffset>
+<EndOffset>3428</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>birlikte dolaşmak bile ıstıraptı senin için</Text>
+<BeginOffset>3452</BeginOffset>
+<EndOffset>3495</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="condition " pdtb3="yes" sense="CONTINGENCY: Condition: Arg1 as condition" sense2="" type="ALTLEX">
+<Conn>
+<Span>
+<Text>o zaman</Text>
+<BeginOffset>14493</BeginOffset>
+<EndOffset>14500</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Beni istemediğini söylemen "düşsel sen"i
+                    alırdı elimden</Text>
+<BeginOffset>14431</BeginOffset>
+<EndOffset>14486</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>İnan</Text>
+<BeginOffset>14488</BeginOffset>
+<EndOffset>14492</EndOffset>
+</Span>
+<Span>
+<Text>anlam taşımazdı yaşamım</Text>
+<BeginOffset>14501</BeginOffset>
+<EndOffset>14524</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note='yeni AltLex - "derken" DZ. ' pdtb3="yes" sense="TEMPORAL: Asynchronous: Succession" type="ALTLEX">
+<Conn>
+<Span>
+<Text>Derken</Text>
+<BeginOffset>15646</BeginOffset>
+<EndOffset>15652</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Ağır ağır pencereye yürüdü. Bu güzel yaratığı
+                    ürkütmeden nasıl yakalayabilirdi? Nasıl açabilirdi pencereyi?</Text>
+<BeginOffset>15538</BeginOffset>
+<EndOffset>15645</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text>Derken kelebek havalandı ve sokağın öbür ucuna
+                    doğru uçmaya başladı.</Text>
+<BeginOffset>15646</BeginOffset>
+<EndOffset>15714</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" sense="" type="ENTREL">
+<Conn>
+<Span>
+<Text>Hamamın</Text>
+<BeginOffset>6452</BeginOffset>
+<EndOffset>6459</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Sabah çok erken saatte bir önceki akşam gün
+                    batmadan hemen önce astığı çamaşırları toplamaya
+                    çıkıyordu ve doğal olarak da gün batmadan o günkü
+                    çamaşırları asmak için geliyordu</Text>
+<BeginOffset>6275</BeginOffset>
+<EndOffset>6450</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> sorumlusu bu kadındı; kocası mahallenin öbür
+                    ucunda bulunan erkekler hamamıyla ilgileniyordu</Text>
+<BeginOffset>6459</BeginOffset>
+<EndOffset>6552</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" sense="" type="ENTREL">
+<Conn>
+<Span>
+<Text>Bunların</Text>
+<BeginOffset>8504</BeginOffset>
+<EndOffset>8512</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Deliği açtığı yerde de eski takunyalar yığılıydı</Text>
+<BeginOffset>8454</BeginOffset>
+<EndOffset>8502</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> altındaki delik en az öbürü kadar güvenliydi</Text>
+<BeginOffset>8512</BeginOffset>
+<EndOffset>8557</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" sense="" type="ENTREL">
+<Conn>
+<Span>
+<Text>Evine</Text>
+<BeginOffset>11476</BeginOffset>
+<EndOffset>11481</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil nakışçıdan hızla çıktı</Text>
+<BeginOffset>11446</BeginOffset>
+<EndOffset>11474</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> doğru deli gibi koşarken amacına biraz daha
+                    yaklaşmanın sevincini yaşıyordu</Text>
+<BeginOffset>11481</BeginOffset>
+<EndOffset>11557</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" sense="" type="ENTREL">
+<Conn>
+<Span>
+<Text>Acıdan</Text>
+<BeginOffset>14797</BeginOffset>
+<EndOffset>14803</EndOffset>
+</Span>
+</Conn>
+<Mod/>
+<Arg1>
+<Span>
+<Text>Halil mahzende baktığı her yerde Peride'nin
+                    yüzünü görerek sabaha kadar oturdu</Text>
+<BeginOffset>14717</BeginOffset>
+<EndOffset>14795</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> kıvrandı</Text>
+<BeginOffset>14803</BeginOffset>
+<EndOffset>14812</EndOffset>
+</Span>
+</Arg2>
+<Supp1/>
+<Supp2/>
+<Shared/>
+<Supp_Shared/>
+</Relation>
+<Relation note="" sense="" type="ENTREL">
+<Conn>
+<Span>
+<Text>Hamamın</Text>
+<BeginOffset>7745</BeginOffset>
+<EndOffset>7752</EndOffset>
+</Span>
+</Conn>
+<Arg1>
+<Span>
+<Text>Kimseye belli etmeden duvardan dışarı atladı</Text>
+<BeginOffset>7699</BeginOffset>
+<EndOffset>7743</EndOffset>
+</Span>
+</Arg1>
+<Arg2>
+<Span>
+<Text> girişine yöneldi</Text>
+<BeginOffset>7752</BeginOffset>
+<EndOffset>7769</EndOffset>
+</Span>
+</Arg2>
+</Relation>
+<Relation note="" sense="" type="NOREL"><Conn><Span><Text> </Text><BeginOffset>0</BeginOffset><EndOffset>1</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği. Dışa karşı güçlüydü, ama içe, kendi yüreğine yıkılmak üzereydi. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı. Vazgeçmek kolaydı, ertelemek de. Ama tırmanmaya başlandı mı bitirilmeli</Text><BeginOffset>0</BeginOffset><EndOffset>484</EndOffset></Span></Arg1><Arg2><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği. Dışa karşı güçlüydü, ama içe, kendi yüreğine yıkılmak üzereydi. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı. Vazgeçmek kolaydı, ertelemek de. Ama tırmanmaya başlandı mı bitirilmeli</Text><BeginOffset>0</BeginOffset><EndOffset>484</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>!</Text><BeginOffset>2651</BeginOffset><EndOffset>2652</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>! Koca bir yalan</Text><BeginOffset>2651</BeginOffset><EndOffset>2667</EndOffset></Span></Arg1><Arg2><Span><Text>! Koca bir yalan</Text><BeginOffset>2651</BeginOffset><EndOffset>2667</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>u</Text><BeginOffset>15976</BeginOffset><EndOffset>15977</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>u.
+       
+       
+       
+</Text><BeginOffset>15976</BeginOffset><EndOffset>16007</EndOffset></Span></Arg1><Arg2><Span><Text>u.
+       
+       
+       
+</Text><BeginOffset>15976</BeginOffset><EndOffset>16007</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text> </Text><BeginOffset>0</BeginOffset><EndOffset>1</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği. Dışa karşı güçlüydü, ama içe, kendi yüreğine yıkılmak üzereydi. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı. Vazgeçmek kolaydı, ertelemek de. Ama tırmanmaya başlandı mı bitirilmeli</Text><BeginOffset>0</BeginOffset><EndOffset>484</EndOffset></Span></Arg1><Arg2><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği. Dışa karşı güçlüydü, ama içe, kendi yüreğine yıkılmak üzereydi. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı. Vazgeçmek kolaydı, ertelemek de. Ama tırmanmaya başlandı mı bitirilmeli</Text><BeginOffset>0</BeginOffset><EndOffset>484</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>!</Text><BeginOffset>2651</BeginOffset><EndOffset>2652</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>! Koca bir yalan</Text><BeginOffset>2651</BeginOffset><EndOffset>2667</EndOffset></Span></Arg1><Arg2><Span><Text>! Koca bir yalan</Text><BeginOffset>2651</BeginOffset><EndOffset>2667</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>u</Text><BeginOffset>15976</BeginOffset><EndOffset>15977</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>u.
+       
+       
+       
+</Text><BeginOffset>15976</BeginOffset><EndOffset>16007</EndOffset></Span></Arg1><Arg2><Span><Text>u.
+       
+       
+       
+</Text><BeginOffset>15976</BeginOffset><EndOffset>16007</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text> </Text><BeginOffset>0</BeginOffset><EndOffset>1</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği</Text><BeginOffset>0</BeginOffset><EndOffset>258</EndOffset></Span></Arg1><Arg2><Span><Text>                          
+            NÜ PERİDE
+            Hakan Akdoğan
+                  
+               Roman
+                  
+       
+        7
+
+       Koca bir duvar taşıyordun yüreğinde kimsenin aşamayacağı, aşmaya cesaret bile edemeyeceği</Text><BeginOffset>0</BeginOffset><EndOffset>258</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>.</Text><BeginOffset>322</BeginOffset><EndOffset>323</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı</Text><BeginOffset>322</BeginOffset><EndOffset>411</EndOffset></Span></Arg1><Arg2><Span><Text>. Anılarla örülmüş, acılarla harçlanmış bu duvara tırmanmak, onu aşabilmenin ilk şartıydı</Text><BeginOffset>322</BeginOffset><EndOffset>411</EndOffset></Span></Arg2></Relation><Relation note="" sense="" type="NOREL"><Conn><Span><Text>.</Text><BeginOffset>15977</BeginOffset><EndOffset>15978</EndOffset></Span></Conn><Mod></Mod><Arg1><Span><Text>.
+       
+       
+       
+</Text><BeginOffset>15977</BeginOffset><EndOffset>16007</EndOffset></Span></Arg1><Arg2><Span><Text>.
+       
+       
+       
+</Text><BeginOffset>15977</BeginOffset><EndOffset>16007</EndOffset></Span></Arg2></Relation></Document>

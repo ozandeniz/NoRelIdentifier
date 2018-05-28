@@ -13,8 +13,15 @@ def get_span(with_no_rel_text, text):
     for no_rel_sentence in no_rel_sentences:
         spans = text.split(no_rel_sentence)
 
-        span_left = spans[0]
-        span_right = spans[1]
+        if len(spans) == 2:
+            span_left = spans[0]
+            span_right = spans[1]
+        elif len(spans) == 1:
+            span_left = spans[0]
+            span_right = ''
+        else:
+            span_left = ''
+            span_right = ''
 
         left = '.'.join(span_left.split('.')[-1 * SENTENCE_SPAN:])
         right = '.'.join(span_right.split('.')[SENTENCE_SPAN:])

@@ -108,3 +108,4 @@ def mark_no_rel(text, no_rel_list_with_span):
 
     with open(out_file_path, "w") as f:
         f.write(str(connective_info))
+        f.close()
