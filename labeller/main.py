@@ -13,14 +13,10 @@ def main():
     annotation = read_annotation()
     text = read_text()
 
-    #with_no_rel_text = convert_to_dot(text)
+    text = convert_to_dot(text)
 
-    with_no_rel_text = text
-
-    with_no_rel_text = extract(with_no_rel_text, annotation)
+    with_no_rel_text = extract(text, annotation)
     no_rel_with_span = get_span(with_no_rel_text, text)
-
-    print(len(no_rel_with_span))
 
     mark_no_rel(text, no_rel_with_span)
     pass
